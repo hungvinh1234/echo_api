@@ -1,0 +1,48 @@
+Note:
+Các phần mềm cần cài đặt ở máy nhà
+
++ Source Vuejs Router 
+cài npm install
+chạy npm run dev
+port 8080
+
++ Source echo_example desktop
+chạy go run main.go
+
++ Cài postgresql
+pgadmin
+
+port: 59523
+
+user: postgres
+pass: root
+
+Database:
+books_database
+
+Tables:
+employees
+
+
+
+ 
+
++ Làm sao để truyền biến từ form sang backend ?
++ Viết API thì gồm những phần nào ?
++ Kết nối db 1 lần xài hoài
++ Cách check dữ liệu đã có trong db ?
++ Cách harsh pass ?
++ Để xác định admin thì nên để kiểu dữ liệu nào
+
+Các màn hình:
++ Đăng nhập
+Sau khi đăng nhập:
++ Màn hình xem chi tiết account
++ Màn hình edit account
+
+Nếu là admin:
++ Màn hình quản lý danh sách account của admin, có thể xem, sửa, xóa
++ Màn hình xem được các account được giới thiệu
+
+
++ Đăng ký
